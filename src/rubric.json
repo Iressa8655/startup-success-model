@@ -1,0 +1,10 @@
+{
+  "team": ["T1_mastery_right_axis", "T2_research", "T3_engineering",
+           "T4_operator", "T5_founder_market_fit", "T6_company_builder"],
+  "upside": ["U1_bottom_up_100m_arr", "U2_budget_source", "U3_market_shape",
+             "U4_why_now", "U5_market_ambition", "U6_margin_survives"],
+  "thesis": ["M1_proprietary_data", "M2_domain_expertise",
+             "M3_system_complexity", "M4_model_release_test"],
+  "thresholds": {"meeting_min_pillar": 4, "pass_max_pillar": 2},
+  "claimed_discount": 0.5
+}

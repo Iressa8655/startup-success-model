@@ -1,0 +1,5 @@
+data/
+*_prompt.txt
+*_draft_scores.json
+__pycache__/
+.ipynb_checkpoints/

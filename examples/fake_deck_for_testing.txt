@@ -1,0 +1,5 @@
+FICTIONAL TEST DECK, not a real company
+OrthoGait AI. We predict revision risk after knee replacement from gait video.
+Team: CEO PhD in biomechanics, 3 first-author papers. CTO ex-Google.
+Market: UK NHS hospitals first, 120 trusts x GBP 80k per year.
+Moat: 20,000 labelled gait videos from 3 partner hospitals.

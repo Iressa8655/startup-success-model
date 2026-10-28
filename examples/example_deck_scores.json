@@ -1,0 +1,22 @@
+{
+  "company": "Fictional example, not a real deck",
+  "red_flags": [],
+  "scores": {
+    "T1_mastery_right_axis": {"score": 5, "status": "verified"},
+    "T2_research": {"score": 5, "status": "verified"},
+    "T3_engineering": {"score": 4, "status": "claimed"},
+    "T4_operator": {"score": 3, "status": "claimed"},
+    "T5_founder_market_fit": {"score": 4, "status": "verified"},
+    "T6_company_builder": {"score": 2, "status": "verified"},
+    "U1_bottom_up_100m_arr": {"score": 3, "status": "claimed"},
+    "U2_budget_source": {"score": 4, "status": "verified"},
+    "U3_market_shape": {"score": 4, "status": "claimed"},
+    "U4_why_now": {"score": 4, "status": "verified"},
+    "U5_market_ambition": {"score": 2, "status": "verified"},
+    "U6_margin_survives": {"score": 3, "status": "claimed"},
+    "M1_proprietary_data": {"score": 4, "status": "claimed"},
+    "M2_domain_expertise": {"score": 5, "status": "verified"},
+    "M3_system_complexity": {"score": 3, "status": "verified"},
+    "M4_model_release_test": {"score": 4, "status": "verified"}
+  }
+}
